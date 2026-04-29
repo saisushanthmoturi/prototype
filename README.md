@@ -45,7 +45,7 @@ The platform utilizes a state-of-the-art **Ultra-Wide Dashboard** (1600px) layou
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -77,7 +77,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the platform.
 
 ---
 
-## 📜 Project Structure
+## Project Structure
 
 ```text
 app/
@@ -94,7 +94,7 @@ app/
 
 ---
 
-## 🔐 Privacy Commitment
+##  Privacy Commitment
 PrivacyAds AI is built on the principle of **Targeting Without Compromise**. We use stochastic noise, ε-Differential Privacy, and Zero-Knowledge Proofs to ensure that performance never comes at the cost of human privacy.
 
 ---
