@@ -1,11 +1,11 @@
-# 🛡️ PrivacyAds AI
+# PrivacyAds AI
 ### The Quantum Privacy Ad Ecosystem
 
 PrivacyAds AI is a premium, ultra-wide dashboard platform designed for the next generation of privacy-first advertising. Built with a "Dark Aurora" aesthetic, it leverages mathematical privacy (Differential Privacy), Zero-Knowledge Proofs, and Contextual Intelligence to deliver high-performance targeting without cookies or individual tracking.
 
 ---
 
-## 🚀 Key Modules
+## Key Modules
 
 ### 🧬 Signal Fusion (CPIF)
 *Cross-Pillar Intelligence Fusion*
