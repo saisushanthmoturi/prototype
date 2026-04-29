@@ -7,35 +7,35 @@ PrivacyAds AI is a premium, ultra-wide dashboard platform designed for the next 
 
 ## Key Modules
 
-### 🧬 Signal Fusion (CPIF)
+### Signal Fusion (CPIF)
 *Cross-Pillar Intelligence Fusion*
 Combines contextual NLP signals, on-device federated learning, and encrypted conversion data into a single adaptive relevance score (PARS).
 - **Adaptive Weighting**: Dynamically redistributes signal priority based on environment fidelity.
 - **PARS Core**: Real-time relevance indexing with stochastic failover.
 
-### 🎭 Contextual Creative Morphing (CCM)
+### Contextual Creative Morphing (CCM)
 Dynamic asset transformation fueled by page-level semantic signals.
 - **Morphic Buffers**: Instant color, copy, and CTA adaptation based on reader context.
 - **Zero-ID Targeting**: High-performance creative selection without PII.
 
-### 🛡️ Privacy Guardian (APG)
+### Privacy Guardian (APG)
 An autonomous adversarial simulation layer that continuously stresstests the privacy layer.
 - **Threat Mitigation**: Blocks membership inference, gradient leaks, and timing attacks.
 - **Health Monitoring**: Real-time shield integrity visualization with stochastic guard scans.
 
-### 📈 Intent Velocity Map (IVM)
+### Intent Velocity Map (IVM)
 Predictive cohort trajectories mapped in high-dimension contextual space.
 - **Velocity Thresholds**: Automated budget scaling based on mathematical intent acceleration.
 - **K-Anonymous Clustering**: Intent tracking without reconstructing user journeys.
 
-### 🎯 Causal Attribution (CPA)
+### Causal Attribution (CPA)
 Next-gen attribution using cohort holdout experiments and Shapley values.
 - **True Incremental Lift**: Identifies causal contribution to recover wasted spend.
 - **Holdout Simulation**: Controls control-group bias to optimize attribution confidence.
 
 ---
 
-## 🎨 Design Philosophy: "Dark Aurora"
+## Design Philosophy: "Dark Aurora"
 
 The platform utilizes a state-of-the-art **Ultra-Wide Dashboard** (1600px) layout designed for power users:
 - **Glassmorphism**: Advanced `backdrop-filter` effects with high-vibrancy tokens.
@@ -56,7 +56,7 @@ The platform utilizes a state-of-the-art **Ultra-Wide Dashboard** (1600px) layou
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Clone the repository
 ```bash
